@@ -6,7 +6,7 @@ First Iteration Notice
 Please note that this is the first iteration of the Metadata Extractor Tool. Future updates and enhancements are planned to expand its capabilities and improve its performance.
 
 Installation
-Clone the Repository: git clone https://github.com/yourusername/metadata-extractor-tool.git
+Clone the Repository: git clone: https://github.com/theshahyusuf/metadata_extractor
 Navigate to the Repository Folder:cd metadata-extractor-tool
 
 Dependencies:
